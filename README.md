@@ -1,16 +1,16 @@
 $$ Personal Budgeting App 
 
-Check out the live app by [clicking here]().
+Check out the live app by [clicking here](https://midz-mybudget.herokuapp.com/).
 
 This application lets users save their budget transactions both when they are online and offline. 
 
 $$ Landing Page
 
-![Landing Page](/images/mybudget.PNG)
+![Landing Page](public/images/mybudget.PNG)
 
 $$ Add Functionality
 
-![Search Functionality](/images/mybudget2.PNG)
+![Search Functionality](public/images/mybudget2.PNG)
 
 
 $$ How To Run this Application 
