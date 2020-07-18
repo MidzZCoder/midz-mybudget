@@ -1,0 +1,20 @@
+{
+    "name": "Personal Budgeting App",
+    "short_name": "My Budget",
+    "icons": [
+        {
+            "src": "images/mybudget.PNG",
+            "sizes": "276x183",
+            "type": "image/png"
+        },
+        {
+            "src": "images/mybudget2.PNG",
+            "sizes": "109x72",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+}
